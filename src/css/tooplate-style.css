@@ -119,17 +119,16 @@ strong {
   display: inline-block;
   vertical-align: top;
   margin-top: 5px;
-  min-width: 375px;
+  min-width: 260px;
   position: relative;
-} */
+}
 
-/* .animated-item {
+.animated-item {
   color: #ffc200;
-  width: fit-content;
-} */
+}
 
-/* .animated-item {
-  font-size: 32px;
+.animated-item {
+  font-size: 38px;
   line-height: inherit;
   display: block;
   opacity: 0;
@@ -139,11 +138,11 @@ strong {
   right: 0;
   left: 0;
   animation: BottomTotop 6s linear infinite 0s;
-} */
-/* .animated-item:nth-child(2n + 2) {
+}
+.animated-item:nth-child(2n+2) {
   animation-delay: 2s;
 }
-.animated-item:nth-child(3n + 3) {
+.animated-item:nth-child(3n+3) {
   animation-delay: 4s;
 } */
 
@@ -518,8 +517,8 @@ strong {
   h2 {
     font-size: 2em;
   }
-
-  /* .animated-item {
+  /* 
+  .animated-item {
     font-size: 28px;
   } */
 
